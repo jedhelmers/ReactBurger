@@ -9,6 +9,8 @@ const layout = (props) => (
   // HOCs can take Classes... I guess to style children
   // but if I don't like scoping CSS... is this really
   // neccessary?
+
+  // HOCs can also be wrapped around export defaults
   <Aux>
     <div>
       Toolbar, SideDrawer, Backdrop
