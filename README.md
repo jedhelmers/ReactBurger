@@ -1,3 +1,8 @@
+## COMING SOON: More in-depth documention
+But until then... here's some defaulted stuff
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
